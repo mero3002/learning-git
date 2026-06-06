@@ -6,5 +6,9 @@
     "ahmed": {
         "password": "ahmed123",
         "email": "ahmed@gmail.com"
+    },
+    "merp": {
+        "password": "123",
+        "email": "dfdas"
     }
 }
