@@ -100,14 +100,14 @@ def login():
         if login_username not in usernames :
             print("<< username does not exist >>")
             continue
-        
+
         login_pswd = input("password: ")
         if login_pswd != getInfo(login_username).get("password"):
             print("<< wrong password >>")
             continue
-        print()
-        print(f"<< welcome, {login_username} >>")
         break
+    print()
+    print(f"<< welcome, {login_username} >>")
 
 def deleteAcc(username):
     if username:
