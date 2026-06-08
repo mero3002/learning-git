@@ -191,7 +191,7 @@ def startMenu():
         showMenu()
         option = input()
         if not option.isdigit():
-            print("please enter a numerical value (1-7)")
+            print("please enter a numerical value (1-8)")
             print()
             continue
 
