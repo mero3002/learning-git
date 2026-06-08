@@ -1,4 +1,4 @@
-##### a bit of a bigger bit in terms of bitting more bits into existing smaller bits (idk what's that)
+### a bit of a bigger bit in terms of bitting more bits into existing smaller bits (idk what's that)
 ###### Introducing Roles and access control:
 - There are 3 session modes, *Admin*, *User* (who already has an account) and *Guest* (who is new to our thing) (yeah, a thing, what should i even call it) (i should prolly stop recursively using bracket contexts before it's too late) (now what's 5!) (laptop hotter than the sun) (system failure) (entering hell)
 - **Admin** -> no one dares to ask him for his actions (permission granted for everything).
